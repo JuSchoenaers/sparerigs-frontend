@@ -11,10 +11,8 @@ const TopBar = ({ }) => {
                     <span className='m-0 text-2xl ml-4 pt-1 font-bold text-white' >SpareRigs</span>
                 </div>
                 <div className='flex flex-row gap-0'>
-                    <span className='m-0 text-xs ml-4 pt-4 text-white'>Buy</span>
-                    <span className='m-0 text-xs ml-4 pt-4 text-white'>Sell</span>
-                    <span className='m-0 text-xs ml-4 pt-4 text-white'>Build</span>
-                    <span className='m-0 text-xs ml-4 pt-4 text-white'>Recycle</span>
+                    <span className='m-0 text-xs ml-4 pt-4 text-white'>Placeholder nav</span>
+            
 
                 </div>
             </div>
