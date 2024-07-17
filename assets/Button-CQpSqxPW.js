@@ -1,0 +1,3 @@
+import{R as o}from"./index-DJO9vBfz.js";const t=({label:r,onClick:e,secondary:d})=>d?o.createElement("button",{className:`rounded border-2 border-primary-500 bg-primary-50 bg-opacity-50 hover:bg-primary-50 active:bg-primary-100 pt-2 pb-3 hover:drop-shadow-glow hover:border-glow
+                     rounded-full py-2 px-4 font-semibold text-primary-500`,onClick:e},r):o.createElement("button",{className:`rounded bg-primary-500 border-2 border-primary-500 align-middle pt-2 pb-3 hover:drop-shadow-glow active:bg-primary-600 font-semibold hover:border-glow
+                    rounded-full py-2 px-4 text-white`,onClick:e},r),p=t;t.__docgenInfo={description:"",methods:[],displayName:"Button"};export{p as B};
