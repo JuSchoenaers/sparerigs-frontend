@@ -1,3 +1,5 @@
+const plugin = require('tailwindcss');
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -20,14 +22,15 @@ module.exports = {
         900: "#100622",
         950: "#080311",
       },
-      white : "#FFFFFF",
-      glow:'#920DC6'
+      white: "#FFFFFF",
+      glow: "#920DC6",
     },
     extend: {
       dropShadow: {
-        glow: '0px 0px 4px rgba(111,57,218,0.8)'
-      }
+        glow: "0px 0px 8px var(--tw-shadow-color)",
+      },
     },
   },
-  plugins: [],
+  plugins: [
+  ],
 };

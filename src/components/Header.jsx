@@ -1,18 +1,18 @@
 import React from 'react';
 import Button from '../components/Button';
-
 const TopBar = ({ }) => {
 
     return (
-        <div className='h-[4rem] w-8/12 rounded-[2rem] mx-auto mt-4 flex flex-row content-center justify-between p-2 self-center bg-primary-800'>
-            <div className='flex flex-row gap-2'>
-                <div className='flex flex-row gap-0'>
-                    <span className='m-0 text-s ml-4 pt-2 font-bold text-white'>logo</span>
-                    <span className='m-0 text-2xl ml-4 pt-1 font-bold text-white' >SpareRigs</span>
+        <div className='h-min w-9/12 rounded-full mx-auto mt-4 flex flex-row content-center justify-between p-3 bg-primary-900'>
+            <div className='flex flex-row gap-14'>
+                <div className='flex flex-row items-center gap-0'>
+                    <span className='m-0 text-2xl ml-4 pt-0 font-bold text-white' >SpareRigs</span>
                 </div>
-                <div className='flex flex-row gap-0'>
-                    <span className='m-0 text-xs ml-4 pt-4 text-white'>Placeholder nav</span>
-            
+                <div className='flex flex-row items-center gap-10'>
+                    <span className='text-xs text-white'>Buy</span>
+                    <span className=' text-xs text-white'>Sell</span>
+                    <span className='text-xs text-white'>Build</span>
+                    <span className='text-xs text-white'>Recycle</span>
 
                 </div>
             </div>
