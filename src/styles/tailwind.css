@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.custom-checkbox:checked + .custom-checkbox-label span svg {
+    display: block;
+  }
+  
+  .custom-checkbox:checked + .custom-checkbox-label span.icon {
+    @apply bg-primary-500 border-primary-400 drop-shadow-glow shadow-primary-300
+  }

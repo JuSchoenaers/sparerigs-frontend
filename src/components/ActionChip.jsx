@@ -1,6 +1,7 @@
 import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
+import TertiaryButton from './TertiaryButton';
 
 const ActionChip = ({ label, onClick, info }) => {
 
@@ -10,7 +11,7 @@ const ActionChip = ({ label, onClick, info }) => {
             
             {info}
             <span className='w-[1px] bg-white my-1'></span>
-            <button className='pb-[3px] flex flex-row gap-2 items-center hover:drop-shadow-glow shadow-primary-400 filter-none transition-all hover:animate-pulse' >{label}<FontAwesomeIcon icon={faArrowRight} width={12}></FontAwesomeIcon></button>
+            <TertiaryButton label={label} iconRight={faArrowRight} onClick={onClick}></TertiaryButton>
         </div>
     );
 };

@@ -19,4 +19,3 @@ Chip.args = {
   onClick : action('Button clicked'),
   info:'Things You Should Know About E-Waste'
 };
-

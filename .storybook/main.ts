@@ -9,7 +9,8 @@ const config : StorybookConfig  = {
     "@chromatic-com/storybook",
     "@storybook/addon-interactions",
     "@chromatic-com/storybook",
-    "@storybook/addon-actions"
+    "@storybook/addon-actions",
+    '@storybook/addon-backgrounds',
   ],
 
   framework: {
