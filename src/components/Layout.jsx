@@ -1,6 +1,5 @@
 import { Inter } from "next/font/google";
 import "../styles/globals.css";
-import Link from "next/link";
 import AppHeader from "./AppHeader";
 const inter = Inter({ subsets: ["latin"] });
 
@@ -11,7 +10,7 @@ export const metadata = {
 
 const Layout = ({ children }) => {
   return (
-    <div lang="en" className={inter.className} >
+    <div className={inter.className} >
       <main className="flex min-h-screen flex-col px-8 py-4 w-full items-center gap-8 bg-gradient-to-b from-secondary-800 to-black">
         <AppHeader></AppHeader>
         {children}

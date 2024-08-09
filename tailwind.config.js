@@ -64,6 +64,13 @@ module.exports = {
         glow: "#920DC6",
         transparent:"rgba(0,0,0,0)"
       },
+      gridTemplateColumns: {
+        'auto': 'repeat(auto-fill, minmax(150px, 1fr));',
+      },
+      gridTemplateRows:{
+        'auto': 'repeat(auto-fill, minmax(150px, 1fr));',
+      }
+
     },
   },
   plugins: [

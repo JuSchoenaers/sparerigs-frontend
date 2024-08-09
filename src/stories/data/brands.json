@@ -1,0 +1,62 @@
+[
+    {
+        "brandName": "Toshiba",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Toshiba_logo.svg/1200px-Toshiba_logo.svg.png"
+    },
+    {
+        "brandName": "Intel",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Intel-logo.svg/1200px-Intel-logo.svg.png"
+    },
+    {
+        "brandName": "AMD",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/AMD_logo.svg/1200px-AMD_logo.svg.png"
+    },
+    {
+        "brandName": "NVIDIA",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/NVIDIA_logo.svg/1200px-NVIDIA_logo.svg.png"
+    },
+    {
+        "brandName": "Asus",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/AsusTek_logo.svg/1200px-AsusTek_logo.svg.png"
+    },
+    {
+        "brandName": "Dell",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dell_Logo.svg/1200px-Dell_Logo.svg.png"
+    },
+    {
+        "brandName": "HP",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/HP_logo_2012.svg/1024px-HP_logo_2012.svg.png"
+    },
+    {
+        "brandName": "Lenovo",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Lenovo_logo_2015.svg/1200px-Lenovo_logo_2015.svg.png"
+    },
+    {
+        "brandName": "MSI",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MSI_Logo.svg/1200px-MSI_Logo.svg.png"
+    },
+    {
+        "brandName": "Acer",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Acer_2011.svg/1200px-Acer_2011.svg.png"
+    },
+    {
+        "brandName": "Samsung",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_Logo.svg/1200px-Samsung_Logo.svg.png"
+    },
+    {
+        "brandName": "Apple",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1024px-Apple_logo_black.svg.png"
+    },
+    {
+        "brandName": "Gigabyte",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gigabyte_Technology_logo.svg/1200px-Gigabyte_Technology_logo.svg.png"
+    },
+    {
+        "brandName": "Corsair",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Corsair_logo.svg/1200px-Corsair_logo.svg.png"
+    },
+    {
+        "brandName": "Logitech",
+        "brandLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Logitech_logo.svg/1200px-Logitech_logo.svg.png"
+    }
+]
